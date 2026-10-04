@@ -6,7 +6,7 @@
 **Responsable de Cátedra:** Ing. María Fernanda Vázquez  
 **JTP:** Ing. Fabio D. Argañaraz  
 
-[![GitHub Classroom Autograding](https://github.com/UNJU-Teoria-de-Sistemas-Operativos/TP5/actions/workflows/classroom.yml/badge.svg)](https://github.com/UNJU-Teoria-de-Sistemas-Operativos/TP5/actions/workflows/classroom.yml)
+To [https://github.com/betyampuero/TSO-TP5.git](https://github.com/betyampuero/TSO-TP5.git)
 
 ## 🎯 Objetivos del Trabajo Práctico
 
