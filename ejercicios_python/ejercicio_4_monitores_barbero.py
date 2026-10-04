@@ -7,13 +7,6 @@ Ejercicio Práctico N° 4: Monitores y Variables de Condición (El Barbero Dormi
 Bibliografía de Referencia:
 - Silberschatz: Cap. 6.7 (Monitores) y Cap. 6.6 (El problema del barbero dormilón)
 - Diapositivas U5: Diapositiva 20 a 24 (Monitores y Problemas Clásicos)
-
-Fundamentos de Monitores:
-Un Monitor provee exclusión mutua automática sobre sus variables internas mediante un cerrojo (Lock).
-Para coordinar eventos disjuntos, utiliza Variables de Condición separadas:
-1. 'cond_barbero': Para que el barbero espere a los clientes o su acomodo en el sillón.
-2. 'cond_sala_espera': Para que los clientes esperen hasta que el sillón quede libre.
-3. 'cond_corte': Para que el cliente en el sillón espere a que el barbero termine de cortar.
 """
 
 import sys
